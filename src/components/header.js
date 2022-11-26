@@ -1,18 +1,28 @@
-class Header extends Component {   
-    render() {
-    return (
-    
-    
+import {Route, Routes,BrowserRouter as Router} from "react-router-dom"
+import About from "./About";
+import Contact from "./Contact";
+import Portfolio from "./Portfolio";
+import Resume from "./Resume";
+
+
+
+function Header(){   
+
+    return (<Router>
 
     <div className="content">
-          <Route exact path="/" render={() => (<Redirect to="/portfolio"/>)}/>
-          <Route path="/portfolio" component={Portfolio}/>
-          <Route path="/about" component={About}/>
-          <Route path="/contact" component={Contact}/>
-          <Route path="/resume" component={Resume}/>
+        <Routes>
+          <Route exact path="/" element={<About/>}/>
+          <Route path="/portfolio" element={<Portfolio/>}/>
+          <Route path="/about" element={<About/>}/>
+          <Route path="/contact" element={<Contact/>}/>
+          <Route path="/resume" element={<Resume/>}/>
+        </Routes>
         </div>
+        </Router>
+        
     )
 }
-}
+
 
 export default Header;

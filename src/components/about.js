@@ -16,3 +16,6 @@ return (
     </div>
   );
 }
+
+
+export default About;
