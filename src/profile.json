@@ -1,0 +1,35 @@
+Import Notetaker from 
+
+
+
+
+
+
+
+
+
+[
+    {
+    "id": 1,
+    "name": "Rapid ECommerce Website",
+    "image": "",
+    "github": "https://github.com/mollysal/RapidE#user-story",
+    "deploy": "https://whiskey-inventory.herokuapp.com/"
+  
+    },
+    {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "",
+    "github": "https://github.com/ahmedharun46/Weather-Dashboard",
+    "deploy": "https://ahmedharun46.github.io/Weather-Dashboard/"
+    
+    },
+    {
+    "id": 3,
+    "name": "Note Taker Pad",
+    "image": "",
+    "github": "https://github.com/ahmedharun46/NoteTakerPad",
+    "deploy": "https://pure-brook-48728.herokuapp.com/"
+    }
+]
