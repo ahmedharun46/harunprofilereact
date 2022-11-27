@@ -36,9 +36,9 @@
     },
     {
         "id": 6,
-        "name": "Note Taker Pad",
-        "image": "https://www.linkpicture.com/q/NoteTaker.png",
-        "github": "https://github.com/ahmedharun46/NoteTakerPad",
-        "deploy": "https://pure-brook-48728.herokuapp.com/"
+        "name": "Text Editor",
+        "image": "https://www.linkpicture.com/q/TextEditor.png",
+        "github": "https://github.com/ahmedharun46/PWATextEditor",
+        "deploy": "https://arcane-falls-42001.herokuapp.com/"
     }
 ]

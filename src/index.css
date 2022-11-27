@@ -12,6 +12,7 @@ code {
     monospace;
 }
 
+
 .card {
   background-color: var(--platinum);
   border-radius: 5px;
@@ -47,3 +48,10 @@ code {
   padding: 10px;
   align-content: flex-start;
 }
+#contact-section {
+  justify-content: center;
+  margin: 20px;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
