@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harunprofilereact/static/css/main.46b83f7f.css",
+    "main.js": "/harunprofilereact/static/js/main.9202e1f5.js",
+    "static/js/787.987898f3.chunk.js": "/harunprofilereact/static/js/787.987898f3.chunk.js",
+    "index.html": "/harunprofilereact/index.html",
+    "main.46b83f7f.css.map": "/harunprofilereact/static/css/main.46b83f7f.css.map",
+    "main.9202e1f5.js.map": "/harunprofilereact/static/js/main.9202e1f5.js.map",
+    "787.987898f3.chunk.js.map": "/harunprofilereact/static/js/787.987898f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b83f7f.css",
+    "static/js/main.9202e1f5.js"
+  ]
+}
