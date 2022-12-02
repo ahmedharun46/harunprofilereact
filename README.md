@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-Test Push
 
 Github Link: https://github.com/ahmedharun46/harunprofilereact
 
