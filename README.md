@@ -1,7 +1,28 @@
 # Getting Started with Create React App
+What is my goal?
+
+
+You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects. Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
+
+What I learned
+
+I learned how to code a interactive webiste using react syntax. How the realtionship of files work in react.
 
 
 Github Link: https://github.com/ahmedharun46/harunprofilereact
+
+
+URL Link: 
+
+
+
+
+
+
+
+
+
+
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
