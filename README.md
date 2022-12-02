@@ -1,16 +1,4 @@
-ReadME
-
-What was my goal?
-
-Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
-
-You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
-
-What Ilearned
-
-How to strucutre my code correctly in specefic files for React and organization. How to specefically use github pages to deploy react code. How to write code in the specfic react style.
-
-Github URL Link: https://ahmedharun46.github.io/harunprofilereact/
+# Getting Started with Create React App
 
 Github Link: https://github.com/ahmedharun46/harunprofilereact
 
