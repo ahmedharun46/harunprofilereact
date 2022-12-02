@@ -1,12 +1,9 @@
-import React from "react";
-import resume from '../materials/Harun Ahmed Resume.pdf';
+import React from 'react';
 
- function Resume() {
-    return (
-        <div>
-            <iframe src={resume} height="800" width="800"></iframe>
-        </div>
-    )
+function Resume() {
+return (
+    <div>RESUME</div>
+)
 }
 
 export default Resume
