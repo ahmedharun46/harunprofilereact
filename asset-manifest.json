@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/harunprofilereact/static/css/main.46b83f7f.css",
-    "main.js": "/harunprofilereact/static/js/main.9202e1f5.js",
+    "main.js": "/harunprofilereact/static/js/main.52db5e5a.js",
     "static/js/787.987898f3.chunk.js": "/harunprofilereact/static/js/787.987898f3.chunk.js",
+    "static/media/Harun Ahmed Resume.pdf": "/harunprofilereact/static/media/Harun Ahmed Resume.ddb1f20bab1228763714.pdf",
     "index.html": "/harunprofilereact/index.html",
     "main.46b83f7f.css.map": "/harunprofilereact/static/css/main.46b83f7f.css.map",
-    "main.9202e1f5.js.map": "/harunprofilereact/static/js/main.9202e1f5.js.map",
+    "main.52db5e5a.js.map": "/harunprofilereact/static/js/main.52db5e5a.js.map",
     "787.987898f3.chunk.js.map": "/harunprofilereact/static/js/787.987898f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46b83f7f.css",
-    "static/js/main.9202e1f5.js"
+    "static/js/main.52db5e5a.js"
   ]
 }
